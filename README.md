@@ -13,7 +13,7 @@ Generate secure and unique passwords effortlessly with this lightweight JavaScri
 ## Demo
 
 Live Demo:
-    https://codesoftg.github.io/TGCodes-Password-Generator/
+    (https://rashwanthashok.github.io/Password-Generator/)
     
 ## Getting Started
 
