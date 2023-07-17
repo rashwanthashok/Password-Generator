@@ -38,7 +38,9 @@ To explore or modify the code, follow these steps:
 
 3️⃣ User Interface Refinements: Improve the user interface to enhance usability and aesthetic appeal. Consider implementing a clean and intuitive design, ensuring that users can effortlessly navigate and interact with the password generator. Incorporate responsive design principles to optimize the experience across various devices and screen sizes.
 
+## Deployment status
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c894201d-923c-48bf-a662-ca9a3f67db81/deploy-status)](https://app.netlify.com/sites/jsprojects4-password-generator/deploys)
 ## Contributing
 
 Contributions are always welcome!
